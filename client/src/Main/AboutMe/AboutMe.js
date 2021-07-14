@@ -39,7 +39,7 @@ const AboutMe = (props) => {
           </h5>
           <hr />
           <h4>In short...</h4>
-          <h4 style={{ fontWeight: "700" }}>I'm Arun Shekhar </h4>
+          <h4 style={{ fontWeight: "700" }}>I'm Rahul Kumar </h4>
           <h4> Just a guy who's a Developer for fun the of it.</h4>
           <div className="d-flex align-items-center justify-content-center mt-4 mt-md-5 mb-3">
 
