@@ -22,8 +22,6 @@ It included many more features like Automatic place search and Map rendering whi
 - Public chatbox that shows real-time messages
 - Admin only protected route that can post global blogposts
 
-#### You can see detailed Working of App on Youtube: [Video](https://youtu.be/sncySXQQKFQ "Video")
-
 
 ### 👨‍💻 Why I Made This App
 ---
@@ -65,4 +63,4 @@ During the development of this app, I strengthened previous knowledge and learne
 ### 🔗 Links 
 ---
 ##### See Live Running App on:  [Visité](https://visite-place-tracker.web.app/ "Visité")
-##### See Portfolio Website at: [Portfolio](https://devstardude.web.app/ "Portfolio")
+
