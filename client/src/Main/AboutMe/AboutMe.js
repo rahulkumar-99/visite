@@ -42,18 +42,11 @@ const AboutMe = (props) => {
           <h4 style={{ fontWeight: "700" }}>I'm Arun Shekhar </h4>
           <h4> Just a guy who's a Developer for fun the of it.</h4>
           <div className="d-flex align-items-center justify-content-center mt-4 mt-md-5 mb-3">
+
             <Fab
               className="Head-fab mx-0 mx-md-1"
               size="small"
-              href="https://www.instagram.com/i_m_a.r.u.n/"
-              target="_blank"
-            >
-              <InstagramIcon />
-            </Fab>
-            <Fab
-              className="Head-fab mx-0 mx-md-1"
-              size="small"
-              href="https://github.com/imdude001"
+              href="https://github.com/rahulkumar-99"
               target="_blank"
             >
               <GitHubIcon />
@@ -61,18 +54,10 @@ const AboutMe = (props) => {
             <Fab
               className="Head-fab mx-0 mx-md-1"
               size="small"
-              href="https://linkedin.com/in/arun-shekhar"
+              href="https://www.linkedin.com/in/rahul-kumar-b2544b193/"
               target="_blank"
             >
               <LinkedInIcon />
-            </Fab>
-            <Fab
-              className="Head-fab mx-0 mx-md-1"
-              size="small"
-              href="https://www.youtube.com/channel/UCEL_3xlrevncI0OWEzaIY3Q"
-              target="_blank"
-            >
-              <YouTubeIcon />
             </Fab>
           </div>
           <Footer/>
