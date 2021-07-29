@@ -1,9 +1,9 @@
-# 🗺️ Visité
+Visite
 <p align="left">
   <img width="70%" src="https://i.ibb.co/VJVhjj1/visite-display-pic-1.png">
 </p>
 
-### 🌟 Introduction 
+Introduction
 --- 
 Want to Track the places you visit with a Great UI and User Experience?<br/>
 <strong>Visité - A Place Tracker</strong> is the Solution.<br/>
@@ -11,7 +11,7 @@ This is a Feature-Rich app in which you can add and remove places you visited, w
 It included many more features like Automatic place search and Map rendering which enhance the user experience.
 <br/>
 
-### 🏖️ Current Features List
+Current Features
 ---
 - Share Places (Visible to the world)
 - Wishlist Places (Only visible to the user)
@@ -23,13 +23,12 @@ It included many more features like Automatic place search and Map rendering whi
 - Admin only protected route that can post global blogposts
 
 
-### 👨‍💻 Why I Made This App
+Why I made this App
 ---
 I personally have a Dream to visit as many Beautiful Places in the World as I can. <br/>
 So this App is developed for people like those who visit different places in the world and not just want to keep track of them but to show it to the world too.<br/>
 It's Simple, Beautiful and one day I would also love to add a Genuinely visited  International place in this application.
-
-### 📚 What I Learned while making this App
+What I learned from this app
 ---
 During the development of this app, I strengthened previous knowledge and learned various things like...
 - React.js with Normal and Custom Hooks
@@ -41,7 +40,7 @@ During the development of this app, I strengthened previous knowledge and learne
 - Firebase Storage Add and Delete
 - Using Various Material UI Components
 
-### ⚙️ Technology Stack
+Technology Stack
 ---
 ~ Frontend 
 - React.js with Hooks
@@ -60,7 +59,7 @@ During the development of this app, I strengthened previous knowledge and learne
 - Frontend on Firebase and Backend on Heroku
 
 
-### 🔗 Links 
+Link
 ---
 ##### See Live Running App on:  [Visité](https://visite-place-tracker.web.app/ "Visité")
 
