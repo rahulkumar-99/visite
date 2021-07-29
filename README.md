@@ -28,6 +28,7 @@ Why I made this App
 I personally have a Dream to visit as many Beautiful Places in the World as I can. <br/>
 So this App is developed for people like those who visit different places in the world and not just want to keep track of them but to show it to the world too.<br/>
 It's Simple, Beautiful and one day I would also love to add a Genuinely visited  International place in this application.
+---
 What I learned from this app
 ---
 During the development of this app, I strengthened previous knowledge and learned various things like...
